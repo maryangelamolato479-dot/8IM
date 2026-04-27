@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "mov_id": 901,
+      "mov_title": "Vertigo",
+      "mov_lang": "English",
+      "mov_rel_country": "UK",
+      "mov_dt_rel": "1958-08-24",
+      "director": { "id": 201, "first_name": "Alfred", "last_name": "Hitchcock" },
+      "actors": [
+        { "id": 101, "first_name": "James", "last_name": "Stewart", "gender": "M" }
+      ],
+      "rating": { "avg_stars": 8.40, "num_ratings": 263575 }
+    }
+  ]
+}
